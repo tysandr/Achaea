@@ -1,6 +1,6 @@
 cb = typeof cb != 'undefined' ? cb
 
-cb.medusa = (function() {
+cb.hydra = (function() {
 
   return {
   
