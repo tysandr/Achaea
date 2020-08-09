@@ -43,6 +43,9 @@ p: ^With a powerful swing of .*sword, (.+?) has completely destroyed the body of
 r: Two swift, practised slashes from Seneschal Mezghar Al'Jafri abruptly end the life of Bartholomeus.
 p: ^Two swift, practised slashes from (.+?) abruptly end the life of (\w+)\.$
 
+r: Ovis's life has been frozen and shattered by Seneschal Mezghar Al'Jafri.
+p: ^(.+?)\'s life has been frozen and shattered by (.+?)\.$
+
 r: A shower of gore heralds Farrah's demise within Dauber Bartholomeus Baudelaire's jaws, chewed up and spat out.
 p: A shower of gore heralds (\w+)\'s demise within (.+?)\'s jaws, chewed up and spat out\.$
 
