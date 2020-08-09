@@ -3,3 +3,6 @@ p: ^(.+?) has battered (.+?) to death in (.+?)\.$
 
 r: Viakaros has been slain by the might of a squad of Manaran Miners.
 p: ^(\w+) has been slain by the might of (.+?)\.$
+
+r: Burrowing beneath flesh to the delicious organs beneath, a monstrous cave bat consumes Artena from the inside out.
+p: ^Burrowing beneath flesh to the delicious organs beneath, (.+?) consumes (\w+) from the inside out\.$
