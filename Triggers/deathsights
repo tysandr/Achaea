@@ -15,3 +15,6 @@ p: ^(\w+) has been headbutted to death by (.+?)\.$
 
 r: Overloaded with mycelium, Kinilan succumbs to the fungal power of an infested Vertani.
 p: ^Overloaded with mycelium, (\w+) succumbs to the fungal power of (.+?)\.$
+
+r: Visions of a disfigured ghost's agony at the savage hands of the Ur'Vampire Azstrik overwhelm Akri's fragile mind.
+p: ^Visions of a disfigured ghost\'s agony at the savage hands of the Ur\'Vampire Azstrik overwhelm (\w+)'s fragile mind\.$
