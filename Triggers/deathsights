@@ -22,6 +22,21 @@ p: ^Purple bruises slither across (\w+)\'s battered neck, the product of (.+?)\'
 r: Bartholomeus dies, his defences no match for the relentless might of Beithir Eryl, of Hashan.
 p: ^(\w+) dies, (?:his|her) defences no match for the relentless might of (.+?)\.$
 
+r: A shower of gore heralds Farrah's demise within Dauber Bartholomeus Baudelaire's jaws, chewed up and spat out.
+p: A shower of gore heralds (\w+)\'s demise within (.+?)\'s jaws, chewed up and spat out\.$
+
+r: Rope Tamer Torial 'Poofle' Kelworan has struck Eryl down with her staff.
+p: ^(.+?) has struck (\w+) down with (?:his|her) staff\.$
+
+r: Sentry Kharak has cast Farrah aside with the indomitable heft of his warhammer.
+p: ^(.+?) has cast (\w+) aside with the indomitable heft of (?:his|her) (.+?)\.$
+
+r: The martial prowess of Sentry Ovis has pummelled the meaning of discipline into Farrah's bruised and broken body.
+p: ^The martial prowess of (.+?) has pummelled the meaning of discipline into (\w+)\'s bruised and broken body\.$
+
+r: Twisted by Beithir Eryl, of Hashan's mastery of his humours, Limea perishes with his blood aflame.
+p: ^Twisted by (.+?)\'s mastery of (?:his|her) humours, (\w+) perishes with (?:his|her) blood aflame\.$
+
 r: Castellan Pani 'Pancake' Kindfire, Pro Puncher has battered Lorh to death in Ainghaeal's Nest.
 p: ^(.+?) has battered (.+?) to death in (.+?)\.$
 
