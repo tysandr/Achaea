@@ -24,3 +24,12 @@ p: ^Visions of a disfigured ghost\'s agony at the savage hands of the Ur\'Vampir
 
 r: A vampire guard of Cor Triphyn has fed well upon the corpse of Proficy, ensuring no part of his carcass goes to waste.
 p: ^A vampire guard of Cor Triphyn has fed well upon the corpse of (\w+), ensuring no part of (?:his|her) carcass goes to waste\.$
+
+r: Ada gasps a final breath before succumbing to an ogre mage's magical power.
+p: ^(\w+) gasps a final breath before succumbing to (.+?)\'s magical power\.$
+
+r: Cast from the treetops by an earthen elementalist, Farrah succumbs to death, entombed by the vines of the Ithmia.
+p: ^Cast from the treetops by an earthen elementalist, (\w+) succumbs to death, entombed by the vines of the Ithmia\.$
+
+r: Seneschal Mezghar Al'Jafri has broken Exivus's spine with a backbreaker, slaying him.
+p: ^(.+?) has broken (\w+)\'s spine with a backbreaker, slaying (?:him|her)\.$
