@@ -21,3 +21,6 @@ p: ^Overloaded with mycelium, (\w+) succumbs to the fungal power of (.+?)\.$
 
 r: Visions of a disfigured ghost's agony at the savage hands of the Ur'Vampire Azstrik overwhelm Akri's fragile mind.
 p: ^Visions of a disfigured ghost\'s agony at the savage hands of the Ur\'Vampire Azstrik overwhelm (\w+)\'s fragile mind\.$
+
+r: A vampire guard of Cor Triphyn has fed well upon the corpse of Proficy, ensuring no part of his carcass goes to waste.
+p: ^A vampire guard of Cor Triphyn has fed well upon the corpse of (\w+), ensuring no part of (?:his|her) carcass goes to waste\.$
