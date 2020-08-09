@@ -4,6 +4,15 @@ p: ^(\w+) has bled to death\.$
 r: Killian has stopped her own heart, killing herself instantly.
 p: ^(\w+) has stopped (?:his|her) own heart, killing (?:him|her)self instantly\.$
 
+r: Seneschal Mezghar Al'Jafri has broken Exivus's spine with a backbreaker, slaying him.
+p: ^(.+?) has broken (\w+)\'s spine with a backbreaker, slaying (?:him|her)\.$
+
+r: Aureate light spills from the mouth and nose of Auria as Beithir Eryl, of Hashan transmutes her flesh into gleaming gold.
+p: ^Aureate light spills from the mouth and nose of (\w+) as (.+?) transmutes (?:his|her) flesh into gleaming gold\.$
+
+r: Jaeide has been annihilated by the cataclysmic impact of a meteorite, called forth by Beithir Eryl, of Hashan.
+p: ^(\w+) has been annihilated by the cataclysmic impact of a meteorite, called forth by (.+?)\.$
+
 r: Castellan Pani 'Pancake' Kindfire, Pro Puncher has battered Lorh to death in Ainghaeal's Nest.
 p: ^(.+?) has battered (.+?) to death in (.+?)\.$
 
@@ -28,17 +37,12 @@ p: ^Visions of a disfigured ghost\'s agony at the savage hands of the Ur\'Vampir
 r: A vampire guard of Cor Triphyn has fed well upon the corpse of Proficy, ensuring no part of his carcass goes to waste.
 p: ^A vampire guard of Cor Triphyn has fed well upon the corpse of (\w+), ensuring no part of (?:his|her) carcass goes to waste\.$
 
+r: Bloodthirsty shrieks echo through the Vashnars as an oscillating lake wyrm consumes what remains of Farrah in a maddened frenzy.
+p: ^Bloodthirsty shrieks echo through the Vashnars as an oscillating lake wyrm consumes what remains of (\w+) in a maddened frenzy\.$
+
 r: Ada gasps a final breath before succumbing to an ogre mage's magical power.
 p: ^(\w+) gasps a final breath before succumbing to (.+?)\'s magical power\.$
 
 r: Cast from the treetops by an earthen elementalist, Farrah succumbs to death, entombed by the vines of the Ithmia.
 p: ^Cast from the treetops by an earthen elementalist, (\w+) succumbs to death, entombed by the vines of the Ithmia\.$
 
-r: Seneschal Mezghar Al'Jafri has broken Exivus's spine with a backbreaker, slaying him.
-p: ^(.+?) has broken (\w+)\'s spine with a backbreaker, slaying (?:him|her)\.$
-
-r: Aureate light spills from the mouth and nose of Auria as Beithir Eryl, of Hashan transmutes her flesh into gleaming gold.
-p: ^Aureate light spills from the mouth and nose of (\w+) as (.+?) transmutes (?:his|her) flesh into gleaming gold\.$
-
-r: Jaeide has been annihilated by the cataclysmic impact of a meteorite, called forth by Beithir Eryl, of Hashan.
-p: ^(\w+) has been annihilated by the cataclysmic impact of a meteorite, called forth by (.+?)\.$
