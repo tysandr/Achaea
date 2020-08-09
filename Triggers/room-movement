@@ -1,0 +1,2 @@
+r: With a final glance at her surroundings, Murmur pads out to the north.
+p: ^With a final glance at (?:his|her) surroundings, (\w+) pads out to the (.+?)\.$
