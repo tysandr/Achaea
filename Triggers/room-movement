@@ -1,2 +1,10 @@
+/* Entries */
+r: Durzaan arrives from the northwest.
+p: ^(\w+) arrives from the (.+?)\.$
+
+/* Exits */
+r: Durzaan leaves to the southeast.
+p: ^(\w+) leaves to the (.+?\.$
+
 r: With a final glance at her surroundings, Murmur pads out to the north.
 p: ^With a final glance at (?:his|her) surroundings, (\w+) pads out to the (.+?)\.$
