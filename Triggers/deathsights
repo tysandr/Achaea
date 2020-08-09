@@ -1,3 +1,6 @@
+r: Kinilan has bled to death.
+p: ^(\w+) has bled to death\.$
+
 r: Castellan Pani 'Pancake' Kindfire, Pro Puncher has battered Lorh to death in Ainghaeal's Nest.
 p: ^(.+?) has battered (.+?) to death in (.+?)\.$
 
@@ -9,3 +12,6 @@ p: ^Burrowing beneath flesh to the delicious organs beneath, (.+?) consumes (\w+
 
 r: Shadowwing has been headbutted to death by a guard pig.
 p: ^(\w+) has been headbutted to death by (.+?)\.$
+
+r: Overloaded with mycelium, Kinilan succumbs to the fungal power of an infested Vertani.
+p: ^Overloaded with mycelium, (\w+) succumbs to the fungal power of (.+?)\.$
