@@ -1,3 +1,3 @@
 /* Room */
 r: A great snowdrift blankets the area in a mantle of wintry white.
-p: ^.+? (A great snowdrift blankets the area in a mantle of wintry white\.).*$
+p: ^(.+?) (A great snowdrift blankets the area in a mantle of wintry white\.)(.*)$
