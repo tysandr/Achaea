@@ -1,8 +1,6 @@
 r: It is now the 11th of Lupar, 836 years after the fall of the Seleucarian Empire.
 p: ^It is now the (.+?), (\d+) years after the fall of the Seleucarian Empire\.$
 
-r: Splashed with the reflected radiance of the stars, Achaea's outermost ring glitters ghostly pale against the night sky.
-p: ^Splashed with the reflected radiance of the stars, Achaea's outermost ring glitters ghostly pale against the night sky\.$
 
 r: Deepest Stygian night steals over the land as the symbolic hourglass empties and turns, ready to begin a new day.
 p: ^Deepest Stygian night steals over the land as the symbolic hourglass empties and turns, ready to begin a new day\.$
@@ -18,3 +16,10 @@ p: ^Poised at the very peak of the firmament, the fiery sun casts its radiant ga
 
 r: Silver sparks dance across the heavens as the dazzling orb of the sun rushes past Achaea's three rings, the second brilliantly coruscating at its passing.
 p: ^Silver sparks dance across the heavens as the dazzling orb of the sun rushes past Achaea's three rings, the second brilliantly coruscating at its passing\.$
+
+r: Dusk steals silently over the horizon and crimson and ochre engulf the firmament, their seductive tones beckoning the sun to its nightly repose.
+p: ^Dusk steals silently over the horizon and crimson and ochre engulf the firmament, their seductive tones beckoning the sun to its nightly repose\.$
+
+
+r: Splashed with the reflected radiance of the stars, Achaea's outermost ring glitters ghostly pale against the night sky.
+p: ^Splashed with the reflected radiance of the stars, Achaea's outermost ring glitters ghostly pale against the night sky\.$
