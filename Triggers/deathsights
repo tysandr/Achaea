@@ -33,3 +33,9 @@ p: ^Cast from the treetops by an earthen elementalist, (\w+) succumbs to death, 
 
 r: Seneschal Mezghar Al'Jafri has broken Exivus's spine with a backbreaker, slaying him.
 p: ^(.+?) has broken (\w+)\'s spine with a backbreaker, slaying (?:him|her)\.$
+
+r: Aureate light spills from the mouth and nose of Auria as Beithir Eryl, of Hashan transmutes her flesh into gleaming gold.
+p: ^Aureate light spills from the mouth and nose of (\w+) as (.+?) transmutes (?:his|her) flesh into gleaming gold\.$
+
+r: Jaeide has been annihilated by the cataclysmic impact of a meteorite, called forth by Beithir Eryl, of Hashan.
+p: ^(\w+) has been annihilated by the cataclysmic impact of a meteorite, called forth by (.+?)\.$
