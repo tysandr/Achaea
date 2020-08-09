@@ -1,0 +1,2 @@
+r: A plume of black smoke rises into the sky above the City of Cyrene.
+p: ^A plume of black smoke rises into the sky above the City of (.+?)\.$
