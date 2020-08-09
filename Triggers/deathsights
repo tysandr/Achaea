@@ -1,0 +1,5 @@
+r: Castellan Pani 'Pancake' Kindfire, Pro Puncher has battered Lorh to death in Ainghaeal's Nest.
+p: ^(.+?) has battered (.+?) to death in (.+?)\.$
+
+r: Viakaros has been slain by the might of a squad of Manaran Miners.
+p: ^(\w+) has been slain by the might of (.+?)\.$
