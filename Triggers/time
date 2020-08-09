@@ -1,7 +1,6 @@
 r: It is now the 11th of Lupar, 836 years after the fall of the Seleucarian Empire.
 p: ^It is now the (.+?), (\d+) years after the fall of the Seleucarian Empire\.$
 
-
 r: Deepest Stygian night steals over the land as the symbolic hourglass empties and turns, ready to begin a new day.
 p: ^Deepest Stygian night steals over the land as the symbolic hourglass empties and turns, ready to begin a new day\.$
 
