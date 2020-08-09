@@ -4,6 +4,9 @@ p: ^(\w+) has bled to death\.$
 r: Castellan Pani 'Pancake' Kindfire, Pro Puncher has battered Lorh to death in Ainghaeal's Nest.
 p: ^(.+?) has battered (.+?) to death in (.+?)\.$
 
+r: Yharim has fallen victim to the extraordinary powers of Nezaya in Ainghaeal's Nest.
+p: ^(\w+) has fallen victim to the extraordinary powers of (\w+) in (.+?)\.$
+
 r: Viakaros has been slain by the might of a squad of Manaran Miners.
 p: ^(\w+) has been slain by the might of (.+?)\.$
 
