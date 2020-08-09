@@ -1,6 +1,9 @@
 r: Kinilan has bled to death.
 p: ^(\w+) has bled to death\.$
 
+r: Killian has stopped her own heart, killing herself instantly.
+p: ^(\w+) has stopped (?:his|her) own heart, killing (?:him|her)self instantly\.$
+
 r: Castellan Pani 'Pancake' Kindfire, Pro Puncher has battered Lorh to death in Ainghaeal's Nest.
 p: ^(.+?) has battered (.+?) to death in (.+?)\.$
 
