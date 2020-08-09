@@ -22,9 +22,6 @@ p: ^Purple bruises slither across (\w+)\'s battered neck, the product of (.+?)\'
 r: Bartholomeus dies, his defences no match for the relentless might of Beithir Eryl, of Hashan.
 p: ^(\w+) dies, (?:his|her) defences no match for the relentless might of (.+?)\.$
 
-r: A shower of gore heralds Farrah's demise within Dauber Bartholomeus Baudelaire's jaws, chewed up and spat out.
-p: A shower of gore heralds (\w+)\'s demise within (.+?)\'s jaws, chewed up and spat out\.$
-
 r: Rope Tamer Torial 'Poofle' Kelworan has struck Eryl down with her staff.
 p: ^(.+?) has struck (\w+) down with (?:his|her) staff\.$
 
@@ -36,6 +33,21 @@ p: ^The martial prowess of (.+?) has pummelled the meaning of discipline into (\
 
 r: Twisted by Beithir Eryl, of Hashan's mastery of his humours, Limea perishes with his blood aflame.
 p: ^Twisted by (.+?)\'s mastery of (?:his|her) humours, (\w+) perishes with (?:his|her) blood aflame\.$
+
+r: Volunteer Yharim has cut Eryl down with the deadly edge of his bastard sword.
+p: ^(.+?) has cut (\w+) down with the deadly edge of (?:his|her) .*sword\.$
+
+r: With a powerful swing of a durable, steel bastard sword, Volunteer Yharim has completely destroyed the body of Eryl.
+p: ^With a powerful swing of .*sword, (.+?) has completely destroyed the body of (\w+)\.$
+
+r: Two swift, practised slashes from Seneschal Mezghar Al'Jafri abruptly end the life of Bartholomeus.
+p: ^Two swift, practised slashes from (.+?) abruptly end the life of (\w+)\.$
+
+r: A shower of gore heralds Farrah's demise within Dauber Bartholomeus Baudelaire's jaws, chewed up and spat out.
+p: A shower of gore heralds (\w+)\'s demise within (.+?)\'s jaws, chewed up and spat out\.$
+
+r: Gutted and cast aside by Argwin Meraki's draconic claws, Bartholomeus dies in a pile of his own entrails.
+p: ^Gutted and cast aside by (.+?)\'s draconic claws, (\w+) dies in a pile of (?:his|her) own entrails\.$
 
 r: Castellan Pani 'Pancake' Kindfire, Pro Puncher has battered Lorh to death in Ainghaeal's Nest.
 p: ^(.+?) has battered (.+?) to death in (.+?)\.$
