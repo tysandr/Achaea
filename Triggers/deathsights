@@ -13,6 +13,15 @@ p: ^Aureate light spills from the mouth and nose of (\w+) as (.+?) transmutes (?
 r: Jaeide has been annihilated by the cataclysmic impact of a meteorite, called forth by Beithir Eryl, of Hashan.
 p: ^(\w+) has been annihilated by the cataclysmic impact of a meteorite, called forth by (.+?)\.$
 
+r: Jaeide has been slain by the might of a diminutive homunculus resembling Eryl.
+p: ^(\w+) has been slain by the might of a diminutive homunculus resembling (\w+)\.$
+
+r: Purple bruises slither across Bartholomeus's battered neck, the product of Farrah Roualt's throttling.
+p: ^Purple bruises slither across (\w+)\'s battered neck, the product of (.+?)\'s throttling\.$
+
+r: Bartholomeus dies, his defences no match for the relentless might of Beithir Eryl, of Hashan.
+p: ^(\w+) dies, (?:his|her) defences no match for the relentless might of (.+?)\.$
+
 r: Castellan Pani 'Pancake' Kindfire, Pro Puncher has battered Lorh to death in Ainghaeal's Nest.
 p: ^(.+?) has battered (.+?) to death in (.+?)\.$
 
@@ -24,6 +33,9 @@ p: ^(\w+) has bled out, slain by the might of (.+?) in (.+?)\.$
 
 r: Viakaros has been slain by the might of a squad of Manaran Miners.
 p: ^(\w+) has been slain by the might of (.+?)\.$
+
+r: Akri has fallen beneath the relentless onslaught of Istarion's radiant king.
+p: ^(\w+) has fallen beneath the relentless onslaught of Istarion\'s radiant king\.$
 
 r: Burrowing beneath flesh to the delicious organs beneath, a monstrous cave bat consumes Artena from the inside out.
 p: ^Burrowing beneath flesh to the delicious organs beneath, (.+?) consumes (\w+) from the inside out\.$
@@ -42,6 +54,9 @@ p: ^A vampire guard of Cor Triphyn has fed well upon the corpse of (\w+), ensuri
 
 r: Bloodthirsty shrieks echo through the Vashnars as an oscillating lake wyrm consumes what remains of Farrah in a maddened frenzy.
 p: ^Bloodthirsty shrieks echo through the Vashnars as an oscillating lake wyrm consumes what remains of (\w+) in a maddened frenzy\.$
+
+r: Gutted and cast aside by Argwin Meraki's draconic claws, Limea dies in a pile of his own entrails.
+p: ^Gutted and cast aside by Argwin Meraki's draconic claws, (\w+) dies in a pile of (?:his|her) own entrails\.$
 
 r: Ada gasps a final breath before succumbing to an ogre mage's magical power.
 p: ^(\w+) gasps a final breath before succumbing to (.+?)\'s magical power\.$
