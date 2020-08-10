@@ -5,6 +5,9 @@ p: ^(\w+) arrives from the (.+?)\.$
 r: The Dragon Jonesey thunders in from the northwest.
 p: ^The Dragon (\w+) thunders in from the (.+?)\.$
 
+r: Golden scales shimmer around Minsideon as he enters from the northeast.
+p: ^(\w+) scales shimmer around (\w+) as (?:he|she) enters from the (.+?)\.$
+
 /* Exits */
 r: Durzaan leaves to the southeast.
 p: ^(\w+) leaves to the (.+?\.$
@@ -14,3 +17,6 @@ p: ^With a final glance at (?:his|her) surroundings, (\w+) pads out to the (.+?)
 
 r: Jonesey moves his huge bulk to the southwest with surprising grace.
 p: ^(\w+) moves (?:his|her) huge bulk to the (.+?) with surprising grace\.$
+
+r: Minsideon departs to the southeast, the air vibrating wildly around him.
+p: ^(\w+) departs to the (.+?), the air vibrating wildly around (?:him|her)\.$
