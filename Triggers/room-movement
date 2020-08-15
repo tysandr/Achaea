@@ -8,6 +8,9 @@ p: ^The Dragon (\w+) thunders in from the (.+?)\.$
 r: Golden scales shimmer around Minsideon as he enters from the northeast.
 p: ^(\w+) scales shimmer around (\w+) as (?:he|she) enters from the (.+?)\.$
 
+r: Glimmering, silver scales shimmer around Ronit as she enters from the south.
+p: ^Glimmering, silver scales shimmer around (\w+) as (?:he|she) enters from the (.+?)\.$
+
 /* Exits */
 r: Durzaan leaves to the southeast.
 p: ^(\w+) leaves to the (.+?\.$
@@ -20,3 +23,6 @@ p: ^(\w+) moves (?:his|her) huge bulk to the (.+?) with surprising grace\.$
 
 r: Minsideon departs to the southeast, the air vibrating wildly around him.
 p: ^(\w+) departs to the (.+?), the air vibrating wildly around (?:him|her)\.$
+
+r: The pop and crackle of lightning follows Ronit as she leaves to the south.
+p: ^The pop and crackle of lightning follows (\w+) as (?:he|she) leaves to the (\w+)\.$
