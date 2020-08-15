@@ -1,0 +1,31 @@
+/* General */
+r: You feel a slight tug on your being as you sense that someone has tried to penetrate your cloak of protection.
+p: ^You feel a slight tug on your being as you sense that someone has tried to penetrate your cloak of protection\.$
+
+/* Telepathy */
+r: A devastating blast of telepathic energy strikes you and your senses black out completely...
+p: ^A devastating blast of telepathic energy strikes you and your senses black out completely\.\.\.$
+
+r: You feel Niraaeth's mind attacking yours from all sides, and you lose your mental equilibrium.
+p: ^You feel (\w+)'s mind attacking yours from all sides, and you lose your mental equilibrium\.$
+
+r: A shiver runs down your spine, and you feel an instinctive urge to run as far and fast as you can.
+p: ^A shiver runs down your spine, and you feel an instinctive urge to run as far and fast as you can\.$
+
+r: A shimmering image of the face of Niraaeth appears fleetingly before you, frowning in concentration.
+p: ^A shimmering image of the face of (\w+) appears fleetingly before you, frowning in concentration\.$
+
+r: Sparks of multicoloured light begin to dance in your mind.
+p: ^Sparks of multicoloured light begin to dance in your mind\.$
+
+r: An odd sensation of warmth begins to fill your body.
+p: ^An odd sensation of warmth begins to fill your body\.$
+
+r: Arcs of white light begin to flash across your vision, radiant and bright.
+p: ^Arcs of white light begin to flash across your vision, radiant and bright\.$
+
+r: Your heart thumps as you realise that you have but seconds left to escape whatever fate awaits you.
+p: ^Your heart thumps as you realise that you have but seconds left to escape whatever fate awaits you\.$
+
+r: Radiant shafts of light burst into your vision, their beauty capturing your mind for an instant before your entire body begins to burn with agonizing pain. You shriek as flames consume you from within, your entire body reduced to ashes by the radiance of Niraaeth.
+p: ^Radiant shafts of light burst into your vision, their beauty capturing your mind for an instant before your entire body begins to burn with agonizing pain. You shriek as flames consume you from within, your entire body reduced to ashes by the radiance of (\w+)\.$
