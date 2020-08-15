@@ -5,6 +5,10 @@ p: ^You are dead, perhaps you should \"Embrace Death\"\.$
 r: You feel a slight tug on your being as you sense that someone has tried to penetrate your cloak of protection.
 p: ^You feel a slight tug on your being as you sense that someone has tried to penetrate your cloak of protection\.$
 
+/* Defences */
+r: The grace of the stars descends upon you, granting you future reprieve.
+p: ^The grace of the stars descends upon you, granting you future reprieve\.$
+
 /* Telepathy */
 r: A devastating blast of telepathic energy strikes you and your senses black out completely...
 p: ^A devastating blast of telepathic energy strikes you and your senses black out completely\.\.\.$
