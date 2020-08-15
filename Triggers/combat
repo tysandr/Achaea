@@ -1,4 +1,7 @@
 /* General */
+r: You are dead, perhaps you should "Embrace Death".
+p: ^You are dead, perhaps you should \"Embrace Death\"\.$
+
 r: You feel a slight tug on your being as you sense that someone has tried to penetrate your cloak of protection.
 p: ^You feel a slight tug on your being as you sense that someone has tried to penetrate your cloak of protection\.$
 
