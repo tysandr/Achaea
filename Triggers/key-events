@@ -1,2 +1,5 @@
 r: A plume of black smoke rises into the sky above the City of Cyrene.
 p: ^A plume of black smoke rises into the sky above the City of (.+?)\.$
+
+r: From the centre of Ashtan, a prismatic column of light rises upward, crackling with electricity as chromatic orbs of lightning are launched into the firmament above the city.
+p: ^From the centre of (\w+), a prismatic column of light rises upward, crackling with electricity as chromatic orbs of lightning are launched into the firmament above the city\.$
