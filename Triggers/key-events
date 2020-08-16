@@ -3,3 +3,10 @@ p: ^A plume of black smoke rises into the sky above the City of (.+?)\.$
 
 r: From the centre of Ashtan, a prismatic column of light rises upward, crackling with electricity as chromatic orbs of lightning are launched into the firmament above the city.
 p: ^From the centre of (\w+), a prismatic column of light rises upward, crackling with electricity as chromatic orbs of lightning are launched into the firmament above the city\.$
+
+/* Player-related */
+r: Rotose grows still and his lips begin to move silently.
+p: ^(\w+) grows still and (?:his|her) lips begin to move silently\.$
+
+r: Rotose is enveloped in translucent fire for a moment and is gone, his soul safe until he returns to Achaea.
+p: ^(\w+) is enveloped in translucent fire for a moment and is gone, (?:his|her) soul safe until (?:he|she) returns to Achaea\.$
