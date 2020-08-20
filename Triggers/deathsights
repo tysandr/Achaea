@@ -58,6 +58,9 @@ p: ^(.+?) has battered (.+?) to death in (.+?)\.$
 r: Yharim has fallen victim to the extraordinary powers of Nezaya in Ainghaeal's Nest.
 p: ^(\w+) has fallen victim to the extraordinary powers of (\w+) in (.+?)\.$
 
+r: Namino dies, features contorted from the poison delivered by Shieldlord Nephiny in Ainghaeal's Nest.
+p: ^(\w+) dies, features contorted from the poison delivered by (.+?) in (.+?)\.$
+
 r: Peldin has bled out, slain by the might of Discombobulated Dominius in The Theatrum Mortalis.
 p: ^(\w+) has bled out, slain by the might of (.+?) in (.+?)\.$
 
