@@ -94,6 +94,9 @@ p: ^Gutted and cast aside by Argwin Meraki's draconic claws, (\w+) dies in a pil
 r: Ada gasps a final breath before succumbing to an ogre mage's magical power.
 p: ^(\w+) gasps a final breath before succumbing to (.+?)\'s magical power\.$
 
+r: An apathetic gnoll sentinel withdraws his spear from the ravaged body of Reckwa and returns to his post with an ambivalent shrug.
+p: ^An apathetic gnoll sentinel withdraws his spear from the ravaged body of (\w+) and returns to his post with an ambivalent shrug\.$
+
 r: Cast from the treetops by an earthen elementalist, Farrah succumbs to death, entombed by the vines of the Ithmia.
 p: ^Cast from the treetops by an earthen elementalist, (\w+) succumbs to death, entombed by the vines of the Ithmia\.$
 
