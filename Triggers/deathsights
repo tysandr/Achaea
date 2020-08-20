@@ -94,3 +94,5 @@ p: ^(\w+) gasps a final breath before succumbing to (.+?)\'s magical power\.$
 r: Cast from the treetops by an earthen elementalist, Farrah succumbs to death, entombed by the vines of the Ithmia.
 p: ^Cast from the treetops by an earthen elementalist, (\w+) succumbs to death, entombed by the vines of the Ithmia\.$
 
+r: Artena has been devoured by the red dragon Yudhishthira.
+p: ^(\w+) has been devoured by the red dragon Yudhishthira\.$
