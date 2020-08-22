@@ -1,0 +1,9 @@
+
+r: Shieldlord Nephiny Vorondil shouts, "Let it be known that nine Mhaldorians are busy cowering from seven Cyrenians right now."
+p: ^(.+?) shouts, \"(.+)\"$
+
+r: The crackle of lightning accompanies Speaker Colgano Vorondil, Savage Gardener's voice as he shouts, "I'll put that on my bulletin board for later."
+p: ^The crackle of lightning accompanies (.+)\'s voice as (?:he|she) shouts, \"(.+)\"$
+
+r: Ploutos Montenegro, Knot of the Underwood's voice rises, harried by a frosty mist, "There trying to figure out how to move the guards. they really are weak, and maggots."
+p: ^(.+?)\'s voice rises, harried by a frosty mist, \"(.+)\"$
