@@ -10,3 +10,6 @@ p: ^(\w+) grows still and (?:his|her) lips begin to move silently\.$
 
 r: Rotose is enveloped in translucent fire for a moment and is gone, his soul safe until he returns to Achaea.
 p: ^(\w+) is enveloped in translucent fire for a moment and is gone, (?:his|her) soul safe until (?:he|she) returns to Achaea\.$
+
+r: Upon perpetually beating wings, the black dragon Alizais soars skyward from the Mhojave Desert, breathing a stream of seething acid and dissolving the very fabric of reality. The dark wyrm emits a thunderous roar and, streaking toward the shredded rift, disappears into the unknown beyond.
+p: ^Upon perpetually beating wings, the (.+?) dragon (\w+) soars skyward from the Mhojave Desert, breathing a stream of seething acid and dissolving the very fabric of reality\. The .*wyrm emits a thunderous roar and, streaking toward the shredded rift, disappears into the unknown beyond\.$
