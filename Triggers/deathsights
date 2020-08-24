@@ -52,6 +52,9 @@ p: A shower of gore heralds (\w+)\'s demise within (.+?)\'s jaws, chewed up and 
 r: Gutted and cast aside by Argwin Meraki's draconic claws, Bartholomeus dies in a pile of his own entrails.
 p: ^Gutted and cast aside by (.+?)\'s draconic claws, (\w+) dies in a pile of (?:his|her) own entrails\.$
 
+r: Broken before a billowing plume of Black, Iaxus has been subsumed by Nemesian Trendric Distara's draconic breath.
+p: ^Broken before a billowing plume of Black, (\w+) has been subsumed by (.+?)\'s draconic breath\.$
+
 r: Castellan Pani 'Pancake' Kindfire, Pro Puncher has battered Lorh to death in Ainghaeal's Nest.
 p: ^(.+?) has battered (.+?) to death in (.+?)\.$
 
@@ -90,6 +93,9 @@ p: ^Bloodthirsty shrieks echo through the Vashnars as an oscillating lake wyrm c
 
 r: Gutted and cast aside by Argwin Meraki's draconic claws, Limea dies in a pile of his own entrails.
 p: ^Gutted and cast aside by Argwin Meraki's draconic claws, (\w+) dies in a pile of (?:his|her) own entrails\.$
+
+r: With a splattering of gore, Bellamae's body has been crushed in the mighty jaws of Jaiz, her head consumed as a victorious snack.
+p: ^With a splattering of gore, (\w+)\'s body has been crushed in the mighty jaws of Jaiz, (?:his|her) head consumed as a victorious snack\.$
 
 r: Ada gasps a final breath before succumbing to an ogre mage's magical power.
 p: ^(\w+) gasps a final breath before succumbing to (.+?)\'s magical power\.$
